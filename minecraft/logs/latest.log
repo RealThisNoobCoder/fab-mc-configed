@@ -1,0 +1,141 @@
+[15:08:08] [main/INFO]: Loading for game Minecraft 1.16.5
+[15:08:09] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[15:08:34] [ForkJoinPool-1-worker-1/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[15:08:35] [ForkJoinPool-1-worker-1/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[15:08:35] [main/WARN]: Warnings were found! 
+ - Mod 'AntiGhost' (antighost) recommends version 1.1.7 or later of mod modupdater, which is missing!
+	 - You must install version 1.1.7 or later of modupdater.
+[15:08:35] [main/INFO]: [FabricLoader] Loading 92 mods: fabric-renderer-api-v1@0.4.1+ca58154a7d, fabric-keybindings-v0@0.2.1+ca58154a7d, notenoughcrashes@3.1.8, fabricloader@0.11.2, org_jetbrains_kotlinx_kotlinx-serialization-json-jvm@1.1.0, crowdin-translate@1.2, artifice@0.14.6+1.16.5, hydrogen@0.2, fabric-structure-api-v1@1.1.4+ca58154a7d, org_aperlambda_lambdajcommon@1.8.1, fabric-containers-v0@0.1.11+9354966b7d, lithium@0.6.4, fabric-object-builder-api-v1@1.9.4+9354966b7d, fabric-dimensions-v1@2.0.6+9354966b7d, java@8, cotton-client-commands@1.0.1+1.16-rc1, fabric-game-rule-api-v1@1.0.6+ca58154a7d, fabric-api-base@0.2.1+9354966b7d, capes@1.1.1, fabric-rendering-data-attachment-v1@0.1.5+ca58154a7d, org_jetbrains_kotlinx_kotlinx-serialization-core-jvm@1.1.0, mm@2.1, lambdynlights@1.3.4+1.16, fiber@0.23.0-2, fabric-textures-v0@1.0.6+ca58154a7d, fabric-rendering-fluids-v1@0.1.13+ca58154a7d, raisedclouds@1.0.0, com_moandjiezana_toml_toml4j@0.7.2, org_jetbrains_kotlin_kotlin-stdlib@1.4.31, fabric-blockrenderlayer-v1@1.1.5+ca58154a7d, fabric-lifecycle-events-v1@1.2.1+ca58154a7d, sodium@0.1.0, fabric-renderer-registries-v1@2.2.1+ca58154a7d, org_jetbrains_kotlin_kotlin-stdlib-jdk7@1.4.31, fabric-loot-tables-v1@1.0.2+ca58154a7d, dynamicfps@2.0.1, fabric@0.31.0+1.16, fabric-particles-v1@0.2.4+ca58154a7d, fabric-networking-v0@0.3.2+ca58154a7d, org_codehaus_groovy_groovy@3.0.3, nofade@1.16.5-1.0.1, fastchest@1.2+1.16, fabric-screen-handler-api-v1@1.1.5+9354966b7d, fabric-networking-blockentity-v0@0.2.8+ca58154a7d, okzoomer@4.0.1+1.16.2, minecraft@1.16.5, modmenu@1.16.8, custom-fog@1.4.0, fabric-command-api-v1@1.1.0+f9b3753b7d, cloth-basic-math@0.5.1, sodium-extra@0.2.2, fabrishot@1.3.0, phosphor@0.7.1+build.11, fabric-screen-api-v1@1.0.0+c045166c7d, fabric-tool-attribute-api-v1@1.2.6+ca58154a7d, org_jetbrains_kotlin_kotlin-stdlib-jdk8@1.4.31, fabric-renderer-indigo@0.4.4+ca58154a7d, org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm@1.4.2, smoothboot@1.16.5-1.5.0, cloth-client-events-v0@1.5.47, fabric-item-api-v1@1.2.1+ca58154a7d, fabric-events-interaction-v0@0.4.2+ca58154a7d, fabric-crash-report-info-v1@0.1.3+ca58154a7d, fabric-language-kotlin@1.5.0+kotlin.1.4.31, fabric-entity-events-v1@1.0.3+ca58154a7d, slight-gui-modifications@1.7.1, cullleaves@2.1.0, fabric-rendering-v0@1.1.2+ca58154a7d, fabric-rendering-v1@1.5.1+ca58154a7d, fabric-key-binding-api-v1@1.0.4+9354966b7d, cloth-config2@4.11.14, spruceui@2.0.4+1.16, org_jetbrains_kotlinx_kotlinx-coroutines-jdk8@1.4.2, smoothscrollingeverywhere@3.0.3-unstable, autoconfig1u@3.3.1, fabric-resource-loader-v0@0.4.2+ca58154a7d, org_jetbrains_kotlin_kotlin-reflect@1.4.31, fabric-content-registries-v0@0.2.1+ca58154a7d, antighost@1.16.5-fabric0.30.0-1.1.3, fabric-tag-extensions-v0@1.1.1+ca58154a7d, fabric-biome-api-v1@3.1.1+ca58154a7d, architectury@1.8.130, colormatic@2.2.8+mc.1.16.3, fabric-registry-sync-v0@0.7.4+ca58154a7d, fabric-commands-v0@0.2.2+ca58154a7d, fabric-mining-levels-v0@0.1.3+ca58154a7d, fabric-networking-api-v1@1.0.1+ca58154a7d, fabric-events-lifecycle-v0@0.2.1+ca58154a7d, fabric-models-v0@0.2.1+ca58154a7d, fabric-item-groups-v0@0.2.3+ca58154a7d, org_codehaus_groovy_groovy-jsr223@3.0.3, fabric-object-builders-v0@0.7.2+ca58154a7d
+[15:08:35] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/home/mcsd/.local/share/multimc/libraries/net/fabricmc/sponge-mixin/0.9.2+mixin.0.8.2/sponge-mixin-0.9.2+mixin.0.8.2.jar Service=Knot/Fabric Env=CLIENT
+[15:08:36] [main/INFO]: Loaded configuration file for Sodium (0 options available, 0 user overrides)
+[15:08:36] [main/INFO]: Sodium has been successfully discovered and initialized -- your game is now faster!
+[15:08:36] [main/INFO]: Loaded configuration file for Lithium: 80 options available, 0 override(s) found
+[15:08:37] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-api-v1.mixins.json:accessor.EntityTrackerAccessor and should be specified in value
+[15:08:38] [main/WARN]: Trying to reflect-hack into the class-loader so we can define our own classes in an unrestricted loader...
+[15:08:38] [main/WARN]: ** The JVM might warn you with something nasty! **
+[15:08:38] [main/INFO]: Injecting class 'com.google.common.collect.HydrogenImmutableMapEntry' (url: jar:file:/home/mcsd/.local/share/multimc/instances/Fabulously-Optimized-1.7.1/minecraft/mods/hydrogen-fabric-mc1.16.5-0.2.jar!/com/google/common/collect/HydrogenImmutableMapEntry.class)
+[15:08:38] [main/INFO]: Injecting class 'com.google.common.collect.HydrogenImmutableReferenceHashMap' (url: jar:file:/home/mcsd/.local/share/multimc/instances/Fabulously-Optimized-1.7.1/minecraft/mods/hydrogen-fabric-mc1.16.5-0.2.jar!/com/google/common/collect/HydrogenImmutableReferenceHashMap.class)
+[15:08:38] [main/INFO]: Injecting class 'com.google.common.collect.HydrogenEntrySet' (url: jar:file:/home/mcsd/.local/share/multimc/instances/Fabulously-Optimized-1.7.1/minecraft/mods/hydrogen-fabric-mc1.16.5-0.2.jar!/com/google/common/collect/HydrogenEntrySet.class)
+[15:08:38] [main/INFO]: Injecting class 'com.google.common.collect.HydrogenEntrySetIterator' (url: jar:file:/home/mcsd/.local/share/multimc/instances/Fabulously-Optimized-1.7.1/minecraft/mods/hydrogen-fabric-mc1.16.5-0.2.jar!/com/google/common/collect/HydrogenEntrySetIterator.class)
+[15:08:39] [main/INFO]: Smooth Boot config initialized
+[15:08:39] [main/WARN]: Could not download mappings, stack trace won't be deobfuscated
+[15:08:55] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:08:57] [main/INFO]: Setting user: HacksNotFound
+[15:08:57] [main/INFO]: Initializing StacktraceDeobfuscator
+[15:08:57] [main/INFO]: Downloading deobfuscation mappings: 1.16.5+build.5 for the first launch
+[15:08:58] [main/INFO]: Done initializing StacktraceDeobfuscator
+[15:08:58] [main/INFO]: Definitely not up to no good
+[15:08:58] [main/INFO]: NoFadeIn is running
+[15:09:01] [main/INFO]: [LambDynLights] Initializing LambDynamicLights...
+[15:09:01] [main/INFO]: [LambDynLights] Configuration loaded.
+[15:09:02] [main/WARN]: WARNING! Mod crowdin-translate is only using deprecated 'modmenu:api' custom value! This will be removed in 1.18 snapshots, so ask the author of this mod to support the new API.
+[15:09:02] [main/WARN]: WARNING! Mod artifice is only using deprecated 'modmenu:api' custom value! This will be removed in 1.18 snapshots, so ask the author of this mod to support the new API.
+[15:09:02] [main/WARN]: WARNING! Mod cotton-client-commands is only using deprecated 'modmenu:clientsideOnly' custom value! This is no longer needed and will be removed in 1.18 snapshots.
+[15:09:02] [main/WARN]: WARNING! Mod cotton-client-commands is only using deprecated 'modmenu:api' custom value! This will be removed in 1.18 snapshots, so ask the author of this mod to support the new API.
+[15:09:02] [main/WARN]: WARNING! Mod mm is only using deprecated 'modmenu:api' custom value! This will be removed in 1.18 snapshots, so ask the author of this mod to support the new API.
+[15:09:02] [main/WARN]: WARNING! Mod fiber is only using deprecated 'modmenu:api' custom value! This will be removed in 1.18 snapshots, so ask the author of this mod to support the new API.
+[15:09:02] [main/WARN]: WARNING! Mod cloth-basic-math is only using deprecated 'modmenu:api' custom value! This will be removed in 1.18 snapshots, so ask the author of this mod to support the new API.
+[15:09:02] [main/WARN]: WARNING! Mod cloth-client-events-v0 is only using deprecated 'modmenu:parent' custom value! This will be removed in 1.18 snapshots, so ask the author of this mod to support the new API.
+[15:09:02] [main/WARN]: WARNING! Mod cloth-client-events-v0 is only using deprecated 'modmenu:clientsideOnly' custom value! This is no longer needed and will be removed in 1.18 snapshots.
+[15:09:02] [main/WARN]: WARNING! Mod cloth-client-events-v0 is only using deprecated 'modmenu:api' custom value! This will be removed in 1.18 snapshots, so ask the author of this mod to support the new API.
+[15:09:02] [main/WARN]: WARNING! Mod fabric-language-kotlin is only using deprecated 'modmenu:api' custom value! This will be removed in 1.18 snapshots, so ask the author of this mod to support the new API.
+[15:09:02] [main/WARN]: WARNING! Mod cloth-config2 is only using deprecated 'modmenu:api' custom value! This will be removed in 1.18 snapshots, so ask the author of this mod to support the new API.
+[15:09:02] [main/WARN]: WARNING! Mod spruceui is only using deprecated 'modmenu:api' custom value! This will be removed in 1.18 snapshots, so ask the author of this mod to support the new API.
+[15:09:02] [main/WARN]: WARNING! Mod smoothscrollingeverywhere is only using deprecated 'modmenu:clientsideOnly' custom value! This is no longer needed and will be removed in 1.18 snapshots.
+[15:09:02] [main/WARN]: WARNING! Mod autoconfig1u is only using deprecated 'modmenu:api' custom value! This will be removed in 1.18 snapshots, so ask the author of this mod to support the new API.
+[15:09:02] [main/WARN]: WARNING! Mod architectury is only using deprecated 'modmenu:api' custom value! This will be removed in 1.18 snapshots, so ask the author of this mod to support the new API.
+[15:09:02] [main/INFO]: [Custom Fog] Initializing
+[15:09:02] [main/INFO]: [Custom Fog] Loading config file
+[15:09:02] [main/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[15:09:03] [Thread-95/INFO]: Start Loading of CTS.
+[15:09:04] [main/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[15:09:14] [main/INFO]: Narrator library successfully loaded
+[15:09:14] [main/INFO]: Reloading ResourceManager: Default, Fabric Mods (Fabric Renderer API (v1), Fabric Key Bindings (v0), Not Enough Crashes, Fabric Loader, Artifice, Hydrogen, Fabric Structure API (v1), Fabric Containers (v0), Lithium, Fabric Object Builder API (v1), Fabric Game Rule API (v1), Fabric API Base, Capes, Fabric Rendering Data Attachment (v1), Manningham Mills, LambDynamicLights, Fabric Textures (v0), Fabric Rendering Fluids (v1), Raised Clouds, Fabric BlockRenderLayer Registration (v1), Fabric Lifecycle Events (v1), Sodium, Fabric Renderer Registries (v1), Fabric Loot Tables (v1), Dynamic FPS, Fabric API, Fabric Particles (v1), Fabric Networking (v0), No Fade, FastChest, Fabric Screen Handler API (v1), Fabric Networking Block Entity (v0), Ok Zoomer, Mod Menu, Custom Fog, Fabric Command API (v1), Sodium Extra, Fabrishot, Phosphor, Fabric Screen API (v1), Fabric Tool Attribute API (v1), Fabric Renderer - Indigo, Smooth Boot, Fabric Item API (v1), Fabric Events Interaction (v0), Fabric Crash Report Info (v1), Fabric Language Kotlin, Fabric Entity Events (v1), 'Slight' GUI Modifications, Cull Leaves, Fabric Rendering (v0), Fabric Rendering (v1), Fabric Key Binding API (v1), Cloth Config v4, SpruceUI, Smooth Scrolling Everywhere, Auto Config v1 Updated, Fabric Resource Loader (v0), Fabric Content Registries (v0), AntiGhost, Fabric Tag Extensions (v0), Fabric Biome API (v1), Colormatic, Fabric Registry Sync (v0), Fabric Commands (v0), Fabric Mining Levels (v0), Fabric Networking API (v1), Fabric Events Lifecycle (v0), Fabric Models (v0), Fabric Item Groups (v0), Fabric Object Builders (v0)), cullleaves/smartleaves, Generated Resources
+[15:09:14] [main/INFO]: [STDOUT]: Inject generated resource packs.
+[15:09:14] [main/INFO]: [Ok Zoomer] The "Save Toolbar Activator" keybind was occupying C! Unbinding... This process won't be repeated until specified in the config.
+[15:09:45] [main/INFO]: OpenAL initialized.
+[15:09:45] [main/INFO]: Sound engine started
+[15:09:46] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[15:09:46] [main/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[15:09:46] [main/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[15:09:46] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[15:09:46] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[15:09:46] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[15:09:46] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[15:09:50] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[15:09:50] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[15:09:50] [main/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[15:09:50] [main/INFO]: [[[ Deduplication statistics ]]]
+[15:09:50] [main/INFO]: Baked quad cache: DeduplicationCache ( 20169 de-duplicated, 55956 entries )
+[15:10:24] [main/WARN]: Warning! Mod fabrishot has a broken icon, loading default icon
+[15:10:34] [main/WARN]: Warning! Mod fabrishot has a broken icon, loading default icon
+[15:10:47] [main/WARN]: Warning! Mod fabrishot has a broken icon, loading default icon
+[15:10:51] [main/WARN]: Warning! Mod raisedclouds has a broken icon, loading default icon
+[15:11:01] [main/WARN]: Warning! Mod fabrishot has a broken icon, loading default icon
+[15:11:02] [main/WARN]: Warning! Mod raisedclouds has a broken icon, loading default icon
+[15:11:14] [main/WARN]: Warning! Mod fabrishot has a broken icon, loading default icon
+[15:11:14] [main/WARN]: Warning! Mod raisedclouds has a broken icon, loading default icon
+[15:12:26] [main/INFO]: Reloading ResourceManager: Default, Fabric Mods (Fabric Renderer API (v1), Fabric Key Bindings (v0), Not Enough Crashes, Fabric Loader, Artifice, Hydrogen, Fabric Structure API (v1), Fabric Containers (v0), Lithium, Fabric Object Builder API (v1), Fabric Game Rule API (v1), Fabric API Base, Capes, Fabric Rendering Data Attachment (v1), Manningham Mills, LambDynamicLights, Fabric Textures (v0), Fabric Rendering Fluids (v1), Raised Clouds, Fabric BlockRenderLayer Registration (v1), Fabric Lifecycle Events (v1), Sodium, Fabric Renderer Registries (v1), Fabric Loot Tables (v1), Dynamic FPS, Fabric API, Fabric Particles (v1), Fabric Networking (v0), No Fade, FastChest, Fabric Screen Handler API (v1), Fabric Networking Block Entity (v0), Ok Zoomer, Mod Menu, Custom Fog, Fabric Command API (v1), Sodium Extra, Fabrishot, Phosphor, Fabric Screen API (v1), Fabric Tool Attribute API (v1), Fabric Renderer - Indigo, Smooth Boot, Fabric Item API (v1), Fabric Events Interaction (v0), Fabric Crash Report Info (v1), Fabric Language Kotlin, Fabric Entity Events (v1), 'Slight' GUI Modifications, Cull Leaves, Fabric Rendering (v0), Fabric Rendering (v1), Fabric Key Binding API (v1), Cloth Config v4, SpruceUI, Smooth Scrolling Everywhere, Auto Config v1 Updated, Fabric Resource Loader (v0), Fabric Content Registries (v0), AntiGhost, Fabric Tag Extensions (v0), Fabric Biome API (v1), Colormatic, Fabric Registry Sync (v0), Fabric Commands (v0), Fabric Mining Levels (v0), Fabric Networking API (v1), Fabric Events Lifecycle (v0), Fabric Models (v0), Fabric Item Groups (v0), Fabric Object Builders (v0)), cullleaves/smartleaves, Generated Resources
+[15:12:26] [main/INFO]: [STDOUT]: Inject generated resource packs.
+[15:12:26] [main/INFO]: Flushed changes to Minecraft configuration
+[15:12:26] [main/INFO]: Flushed changes to Sodium configuration
+[15:12:48] [main/INFO]: OpenAL initialized.
+[15:12:48] [main/INFO]: Sound engine started
+[15:12:49] [main/INFO]: Created: 1024x512x0 minecraft:textures/atlas/shield_patterns.png-atlas
+[15:12:49] [main/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/blocks.png-atlas
+[15:12:49] [main/INFO]: Created: 256x128x0 minecraft:textures/atlas/signs.png-atlas
+[15:12:49] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/chest.png-atlas
+[15:12:49] [main/INFO]: Created: 512x256x0 minecraft:textures/atlas/beds.png-atlas
+[15:12:49] [main/INFO]: Created: 1024x512x0 minecraft:textures/atlas/banner_patterns.png-atlas
+[15:12:49] [main/INFO]: Created: 512x256x0 minecraft:textures/atlas/shulker_boxes.png-atlas
+[15:12:51] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[15:12:51] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[15:12:51] [main/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[15:12:51] [main/INFO]: [[[ Deduplication statistics ]]]
+[15:12:51] [main/INFO]: Baked quad cache: DeduplicationCache ( 20169 de-duplicated, 55956 entries )
+[15:13:01] [main/WARN]: Warning! Mod fabrishot has a broken icon, loading default icon
+[15:13:04] [main/WARN]: Warning! Mod raisedclouds has a broken icon, loading default icon
+[15:13:33] [main/INFO]: Connecting to willsmp.us.to, 25575
+[15:13:36] [Netty Epoll Client IO #0/WARN]: Method overwrite conflict for sendFeedback in mixins.cotton-client-commands.json:ClientCommandSourceMixin, previously written by net.fabricmc.fabric.mixin.command.client.ClientCommandSourceMixin. Skipping method.
+[15:13:36] [Netty Epoll Client IO #0/WARN]: Method overwrite conflict for sendError in mixins.cotton-client-commands.json:ClientCommandSourceMixin, previously written by net.fabricmc.fabric.mixin.command.client.ClientCommandSourceMixin. Skipping method.
+[15:13:37] [main/INFO]: Started 2 worker threads
+[15:13:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:13:44] [main/INFO]: Loaded 597 advancements
+[15:13:44] [main/INFO]: [CHAT] Hello! Welcome to the Will SMP HacksNotFound! Respect our rules, please!
+[15:13:44] [main/INFO]: [CHAT] Welcome, HacksNotFound!
+[15:13:44] [main/INFO]: [CHAT] Type /help for a list of commands.
+[15:13:44] [main/INFO]: [CHAT] Type /list to see who else is online.
+[15:13:44] [main/INFO]: [CHAT] Players online: 1 - World time: 7:49 PM
+[15:13:44] [main/INFO]: [CHAT] You have no new mail.
+[15:14:21] [main/INFO]: [CHAT] The time was set to 0 ticks in: world.
+[15:16:02] [main/INFO]: Stopping worker threads
+[15:16:02] [main/INFO]: Started 2 worker threads
+[15:16:02] [main/INFO]: Flushed changes to Minecraft configuration
+[15:16:25] [main/INFO]: Flushed changes to Minecraft configuration
+[15:16:25] [main/INFO]: Flushed changes to Sodium configuration
+[15:17:07] [main/INFO]: Stopping worker threads
+[15:17:28] [main/INFO]: Connecting to privatesmp.shockbyte.pro., 25589
+[15:17:30] [main/INFO]: Started 2 worker threads
+[15:17:30] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:17:32] [main/INFO]: [CHAT] HacksNotFound joined the game
+[15:17:32] [main/INFO]: Loaded 317 advancements
+[15:17:32] [main/WARN]: Received passengers for unknown entity
+[15:17:33] [main/WARN]: Received passengers for unknown entity
+[15:17:33] [main/WARN]: Received passengers for unknown entity
+[15:18:26] [main/INFO]: Stopping worker threads
+[15:18:27] [main/INFO]: Started 2 worker threads
+[15:18:27] [main/INFO]: Stopping worker threads
+[15:18:27] [main/INFO]: Started 2 worker threads
+[15:18:27] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:19:32] [main/INFO]: [CHAT] [Server: Saved the game]
+[15:20:10] [main/INFO]: Flushed changes to Minecraft configuration
+[15:21:31] [main/INFO]: Stopping worker threads
+[15:21:31] [main/INFO]: Started 2 worker threads
+[15:21:31] [main/INFO]: Flushed changes to Minecraft configuration
+[15:21:31] [main/INFO]: Flushed changes to Sodium configuration
+[15:22:01] [main/INFO]: Stopping worker threads
+[15:22:01] [main/INFO]: Started 2 worker threads
+[15:24:56] [main/INFO]: Stopping worker threads
+[15:36:27] [main/INFO]: Stopping!
